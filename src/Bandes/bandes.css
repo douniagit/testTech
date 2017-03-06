@@ -1,0 +1,16 @@
+.bandes{
+	width:100%;
+	height:42vh;
+	background-color:black;
+	color:white;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.bandes2{
+	width:100%;
+	height:63vh;
+	background-color:#F6F6F6;
+	color:black;
+}

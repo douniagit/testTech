@@ -1,0 +1,83 @@
+*{
+	font-family:'Roboto', sans-serif;
+	text-align: center;
+}
+.infos{
+	margin:auto;
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+	width:70%;
+}
+.intro h2{
+	color:#C6005F;
+	margin-top:80px;
+	font-size: 30px;
+}
+.intro p{
+	margin-top: 30px;
+	margin-bottom:50px;
+}
+
+.infos h2{
+	font-size: 30px;
+}
+.bloc1{
+	width:500px;
+	height:50px;
+	display:flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	font-size: 12px;
+	font-weight:bold;
+	margin:auto;
+	margin-bottom: 50px;
+}
+
+.bloc1 img{
+	margin-left:10px;
+	width:30px;
+	height: 30px;
+}
+/*------------------------part2--------------------------*/
+
+.citation p{
+	margin:auto;
+	display:flex;
+	flex-direction: column;
+	width:70%;
+	color:grey;
+	font-size:18px;
+}
+.citation h1{
+	position:absolute;
+	margin-left: 18%;
+	margin-top: -50px;
+}
+.normal{
+	margin-top: 40px;
+	margin-left:-60%;
+	transform: rotate(180deg);
+	z-index:-1;
+}
+.reverse{
+	margin-left:60%;
+	margin-bottom: 50px;
+}
+/*---------------------Download-----------------*/
+.dl{
+	display:flex;
+	flex-direction: row;
+	justify-content: center;
+	margin-bottom: 50px
+}
+.download h2{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	color:#C6005F;
+}
+.resize{
+	width:28%;
+	height:50vh;
+}

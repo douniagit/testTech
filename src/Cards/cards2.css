@@ -1,0 +1,51 @@
+.cards2{
+	display:flex;
+	flex-direction: row;
+	justify-content: center;
+	width:85%;
+	margin:auto;
+}
+
+.Card2{
+	margin-bottom: 70px;
+	width:30%;
+}
+.text{
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	width:100%;
+	height:18vh;
+}
+
+.title{
+	height:3vh;
+}
+.desc{	
+	text-align:center;
+	font-size: 20px;
+}
+.post p{
+	text-align:center;
+	width:100%;
+	font-size:12px;
+	font-weight: bold;
+}
+
+.img1{
+	width:46%;
+	height:20vh;
+}
+.title{
+	text-align:center;
+	width:100%;
+	color:#C6005F;
+	font-size:10px;
+	font-weight: bold;
+	margin-bottom: 10px;
+	font-family:'Roboto', sans-serif;
+}
+
+span{
+	color:#C6005F;
+}
