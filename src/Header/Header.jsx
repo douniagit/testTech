@@ -11,8 +11,8 @@ class Header extends React.Component {
 				<div className="back">
 					<div className="infoPratique">
 						<p className="p1"> BESOIN D'UNE AGENCE</p>
-						<p className="p2">POUR GERER <span>TOUTES LES VIES</span></p>
-						<p className="p3"><span>DE</span> VOTRE MARQUE ?</p>
+						<p className="p2">POUR GERER <span style={{color:"white"}}>TOUTES LES VIES</span></p>
+						<p className="p3"><span style={{color:"white"}}>DE</span> VOTRE MARQUE ?</p>
 					</div>
 				</div>
 		</div>
